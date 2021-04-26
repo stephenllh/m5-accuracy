@@ -1,4 +1,4 @@
-# M5 Accuracy Forecasting - Silver Medal Solution
+# Silver Medal Solution of M5 Forecasting - Accuracy Kaggle Competition
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -8,11 +8,9 @@ Given hierarchical sales data from Walmart, the world’s largest company by rev
 <br/>
 
 <p align="center">
-  <img src="/image/image.png" alt="Competition image" width="600" height="300"/>
+  <img src="/image/image.png" alt="Competition image" width="800" height="400"/>
 </p>
 
-
-<!-- ![Product Name Screen Shot](/image/image.png) -->
 
 This is my solution to the [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy) Kaggle competition. I used a LightGBM to train on the tabular dataset, which was preprocessed to include 7-day and 28-day rolling mean features.
 
@@ -24,8 +22,6 @@ Result: Weighted root mean squared scaled error (RMSSE) score of 0.63730
 ## Getting Started
 
 To get a local copy up and running, follow these simple example steps.
-
-<br/>
 
 ### Installation
 
